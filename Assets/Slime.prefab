@@ -59,7 +59,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 0b62546e5d93a7b4db8d4a77f4f2d297, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -118,14 +118,14 @@ MonoBehaviour:
   forward_force: 20
   time_to_move: 1
   time_to_spawn_phermone: 2
+  time_to_life_decision: 1
+  time_to_be_new: 10
   SlimePrefab: {fileID: 1666209063747422}
   PhermonePrefabe: {fileID: 1014043032629152, guid: 09f804d324d994a4eaebfc920d1d60dd,
     type: 2}
   alive: 1
-  hover: 0
   move: 1
-  follow: 0
-  target: {fileID: 0}
+  new_slime: 0
 --- !u!135 &135275287303482788
 SphereCollider:
   m_ObjectHideFlags: 1

@@ -232,6 +232,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Plugins\Pixelplacement\iTween\ReadMe!\ReadMe!.txt" />
+    <None Include="Assets\Shaders\MetaBall_BlinnPhong.shader" />
+    <None Include="Assets\Shaders\MetaBall_RefractionGlass.shader" />
+    <None Include="Assets\Shaders\MetaBall_Toon.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
