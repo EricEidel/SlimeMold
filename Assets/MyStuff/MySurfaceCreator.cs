@@ -128,5 +128,6 @@ public class MySurfaceCreator : MonoBehaviour {
         slime.childScale = scale;
 
         slime.create_parent(map[index].neightbours, mesh, transform, slime_template);
-    }    
+    }
+    
 }

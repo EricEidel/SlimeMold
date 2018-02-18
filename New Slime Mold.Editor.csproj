@@ -297,12 +297,9 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\MetaBall\Lib\Quad\Editor\TextureCreatorInspector.cs" />
-    <Compile Include="Assets\MetaBall\Lib\Surface\Editor\SurfaceCreatorInspector.cs" />
+    <Compile Include="Assets\MyStuff\Editor\MyLightingShaderGUI.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\MetaBall\Lib\GhostFreeRoamCamera\READEME.txt" />
-    <None Include="Assets\MetaBall\Lib\Surface\Surface Shader.shader" />
     <None Include="Assets\MetaBall\Shaders\MetaBall_BlinnPhong.shader" />
     <None Include="Assets\MetaBall\Shaders\MetaBall_RefractionGlass.shader" />
     <None Include="Assets\MetaBall\Shaders\MetaBall_Toon.shader" />

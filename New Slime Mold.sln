@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Slime Mold", "New Slime Mold.csproj", "{9F7EFDCD-1A88-6974-BFE5-1FA08120DAE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Slime Mold.Editor", "New Slime Mold.Editor.csproj", "{54F3018C-D0CF-7113-0DE7-B93C4E86D56F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{9F7EFDCD-1A88-6974-BFE5-1FA08120DAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F7EFDCD-1A88-6974-BFE5-1FA08120DAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F7EFDCD-1A88-6974-BFE5-1FA08120DAE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54F3018C-D0CF-7113-0DE7-B93C4E86D56F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F3018C-D0CF-7113-0DE7-B93C4E86D56F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F3018C-D0CF-7113-0DE7-B93C4E86D56F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F3018C-D0CF-7113-0DE7-B93C4E86D56F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

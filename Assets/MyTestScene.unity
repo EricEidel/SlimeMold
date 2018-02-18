@@ -317,7 +317,7 @@ MonoBehaviour:
   showOrigin: 1
   showTarget: 1
   showNormals: 0
-  max_depth: 15
+  max_depth: 20
   scale: 0.95
 --- !u!4 &2026330537
 Transform:
