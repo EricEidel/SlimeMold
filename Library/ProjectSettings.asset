@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 13
-  productGUID: a497678c2a2f2c241bfb9342fb01fc7b
+  productGUID: e1a6d3514a60b9f4cb505a6c3e3086c2
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -12,7 +12,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Slime Mold Project
+  productName: New Slime Mold
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -521,14 +521,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Slime Mold Project
+  metroPackageName: New Slime Mold
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Slime Mold Project
+  metroApplicationDescription: New Slime Mold
   wsaImages: {}
   metroTileShortName: 
   metroCommandLineArgsFile: 
@@ -599,11 +599,12 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: af862a38-3993-4898-802c-915ce64919e9
-  projectName: Slime Mold Project
+  cloudProjectId: 36642a31-d62b-4da5-a187-b578ee3b178d
+  projectName: New Slime Mold
   organizationId: eric-eidel
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
